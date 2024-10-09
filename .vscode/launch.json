@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/hamzajadoon/Desktop/FYP-Project/Mental_Health-main",
+      "program": "/Users/hamzajadoon/Desktop/FYP-Project/Mental_Health-main/build/Debug/outDebug"
+    }
+  ]
+}
